@@ -286,7 +286,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-4 col-md-4">
-                    <h4>Hitta oss</h4>
+                    <h4>Hitta </h4>
                     <p><i class="fa fa-home" aria-hidden="true"></i> Henriksbergsvägen 83</p>
                     <p><i class="fa fa-envelope" aria-hidden="true"></i><a href="mailto:info@anros.se"> info@anros.se</a></p>
                     <p><i class="fa fa-phone" aria-hidden="true"></i> 070 6857290</p>
